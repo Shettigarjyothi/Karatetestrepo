@@ -38,6 +38,10 @@
 </dependency>
 
 
-
+<dependency -test>
+    <groupId>com.intuit.karate</groupId>
+    <artifactId>karate-junit5</artifactId>
+    <version>1.4.0</version>
+</dependency>
  </dependencies>
 </project>
